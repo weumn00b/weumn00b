@@ -9,7 +9,7 @@
 
 <h2>Programming Projects</h2>
 
-- [A small POS System built in Python]
+- [A small POS System built in Python](https://github.com/weumn00b/SimplePOSSystem/tree/main)
 
 
 <h2>Certifications</h2>
