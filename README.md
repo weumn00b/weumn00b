@@ -4,7 +4,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
--[Analyzing Encryption on HTTP Traffic](https://github.com/weumn00b/Analysis-of-HTTP-Traffic/tree/main)
+- [Analyzing Encryption on HTTP Traffic](https://github.com/weumn00b/Analysis-of-HTTP-Traffic/tree/main)
 <br />
 <br />
 
