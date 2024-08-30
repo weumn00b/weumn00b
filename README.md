@@ -4,8 +4,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b></b>
-  - 
+-[Analyzing Encryption on HTTP Traffic]
 <br />
 <br />
 
@@ -22,5 +21,5 @@
 <br />
 <br />
 <br />
-<h2>LinkedIn: https://www.linkedin.com/in/liam-browning-0431a82b1/</h2>
+<b align = "center">LinkedIn: https://www.linkedin.com/in/liam-browning-0431a82b1/</b>
 
