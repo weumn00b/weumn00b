@@ -18,6 +18,7 @@
 <br />
 <h2>Certifications</h2>
 -ServiceNow Certified System Administrator
+<br />
 -TestOut Security Pro
 <br />
 <br />
