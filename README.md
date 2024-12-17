@@ -5,7 +5,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Analyzing Encryption on HTTP Traffic](https://github.com/weumn00b/Analysis-of-HTTP-Traffic/tree/main)
-- [Reverse Engineering Linux Executables]((https://liams-write-ups.gitbook.io/leerums-write-ups))
+- [Reverse Engineering Linux Executables](https://liams-write-ups.gitbook.io/leerums-write-ups)
 - [Hardening CentOS 7](https://github.com/weumn00b/CentOSPublic)
 
 <h2>Programming Projects</h2>
