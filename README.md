@@ -18,8 +18,7 @@
 <br />
 <h2>Certifications</h2>
 -ServiceNow Certified System Administrator
-<br />
-<br />
+-TestOut Security Pro
 <br />
 <br />
 <b align = "center">LinkedIn: https://www.linkedin.com/in/liam-browning-0431a82b1/</b>
