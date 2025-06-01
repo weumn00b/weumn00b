@@ -12,6 +12,7 @@
 
 - [A small POS System built in Python](https://github.com/weumn00b/SimplePOSSystem/tree/main)
 - [Reversing Bitwise XOR in Python](https://github.com/weumn00b/Reversing/blob/main/reverse.py)
+- [ServiceNow Teams Notifications](https://leerum.gitbook.io/leerums-write-ups/servicenow-teams-notifications-poc)
 
 <h2>Certifications</h2>
 -ServiceNow Certified System Administrator
