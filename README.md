@@ -12,7 +12,8 @@
 
 - [A small POS System built in Python](https://github.com/weumn00b/SimplePOSSystem/tree/main)
 - [Reversing Bitwise XOR in Python](https://github.com/weumn00b/Reversing/blob/main/reverse.py)
-- [ServiceNow Teams Notifications](https://leerum.gitbook.io/leerums-write-ups/servicenow-teams-notifications-poc)
+- [ServiceNow Teams Notifications](https://github.com/weumn00b/SNtoTeams) ([Write Up](https://leerum.gitbook.io/leerums-write-ups/servicenow-teams-notifications-poc))
+- [Terraform AWS - Prestashop and DB](https://github.com/weumn00b/Terraform-PrestashopAWS) ([Write Up](https://leerum.gitbook.io/leerums-write-ups/terraform-and-aws))
 
 <h2>Certifications</h2>
 -ServiceNow Certified System Administrator
